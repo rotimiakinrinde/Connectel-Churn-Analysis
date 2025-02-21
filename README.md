@@ -79,7 +79,7 @@ A broader look into the contract types highlights the Month-to-month contracts h
 
 **Payment Method:**
 
-According to this analysis, the Electronic check have the highest churn rate (1,071 customers). Electronic check is the most used payment method. Encourage other payment methods to reduce churn considering other payment methods (credit cards, bank transfers, mailed checks) show lower churn rates, likely due to ease of payment and auto-renewal features..
+According to this analysis, the Electronic check have the highest churn rate (1,071 customers). Electronic check is the most used payment method, due to this , other payment methods should be encouraged to reduce churn considering other payment methods (credit cards, bank transfers, mailed checks) show lower churn rates, likely due to ease of payment and auto-renewal features..
 
 ![Payment Method](https://github.com/user-attachments/assets/b7abc7bc-8a3c-4ead-af91-8c92881afa2e) | ![image](https://github.com/user-attachments/assets/b961daa3-998d-48a8-9ddc-e5237f120963)
 

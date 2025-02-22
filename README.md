@@ -81,9 +81,10 @@ A broader look into the contract types highlights the Month-to-month contracts h
 
 According to this analysis, the Electronic check have the highest churn rate (1,071 customers). Electronic check is the most used payment method, due to this , other payment methods should be encouraged to reduce churn considering other payment methods (credit cards, bank transfers, mailed checks) show lower churn rates, likely due to ease of payment and auto-renewal features..
 
-![Payment Method](https://github.com/user-attachments/assets/b7abc7bc-8a3c-4ead-af91-8c92881afa2e) | ![image](https://github.com/user-attachments/assets/b961daa3-998d-48a8-9ddc-e5237f120963)
+![Payment Method](https://github.com/user-attachments/assets/b7abc7bc-8a3c-4ead-af91-8c92881afa2e)
 
-Total charges increase with monthly charges. Longer tenure = higher total charges.
+The analysis futher shows most customers stay between 9 to 55 months, with significant drop-offs in the first 12 months. Outliers indicate a small segment of highly loyal customers who have stayed for over 60+ months. Customers paying higher monthly charges ($60+) exhibit higher churn rates. This reveals that the big spending customers have more variation in tenure. Lastly, Total Charges confirms a strong correlation with tenure, which is, longer tenure = higher Total Charges paid.
+However, some customers with relatively high Total Charges still churn, suggesting that high-spending customers may leave despite long-term use.
 
 ![image](https://github.com/user-attachments/assets/bcdc3ca0-4da8-4ea2-80fc-4a55f8fa9d64)
 
